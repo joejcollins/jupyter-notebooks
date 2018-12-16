@@ -1,0 +1,369 @@
+1 Achillea millefolium 4
+1 Leucanthemum vulgare 7
+1 Agrostis capillaris 4
+1 Cerastium fontanum 2
+1 Dactylis glomerata 1
+1 Festuca ovina agg. 4
+1 Festuca rubra agg. 8
+1 Lotus corniculatus 1
+1 Rumex obtusifolius 1
+1 Medicago lupulina 4
+1 Ranunculus acris 4
+1 Senecio jacobaea 1
+1 Trifolium repens 7
+1 Cirsium vulgare 1
+1 Holcus lanatus 1
+1 Taraxacum agg. 2
+1 Daucus carota 4
+1 Galium verum 1
+2 Veronica serpyllifolia 1
+2 Achillea millefolium 1
+2 Agrostis stolonifera 4
+2 Alopecurus pratensis 1
+2 Leucanthemum vulgare 5
+2 Angelica sylvestris 1
+2 Cerastium fontanum 4
+2 Dactylis glomerata 1
+2 Festuca ovina agg. 2
+2 Festuca rubra agg. 6
+2 Rumex obtusifolius 1
+2 Medicago lupulina 1
+2 Ranunculus repens 2
+2 Tussilago farfara 1
+2 Trifolium repens 6
+2 Cirsium vulgare 2
+2 Holcus lanatus 1
+2 Lolium perenne 1
+2 Taraxacum agg. 2
+2 Daucus carota 1
+2 Galium verum 3
+2 Geum urbanum 1
+3 Achillea millefolium 2
+3 Agrostis stolonifera 6
+3 Leucanthemum vulgare 5
+3 Agrostis capillaris 5
+3 Cynosurus cristatus 2
+3 Cerastium fontanum 1
+3 Festuca rubra agg. 7
+3 Lotus corniculatus 5
+3 Medicago lupulina 2
+3 Prunella vulgaris 1
+3 Ranunculus repens 1
+3 Tussilago farfara 1
+3 Trifolium repens 6
+3 Centaurea nigra 1
+3 Cirsium arvense 1
+3 Lolium perenne 1
+3 Taraxacum agg. 1
+3 Daucus carota 1
+3 Galium verum 1
+4 Leucanthemum vulgare 1
+4 Agrostis capillaris 3
+4 Cerastium fontanum 2
+4 Festuca rubra agg. 8
+4 Lotus corniculatus 1
+4 Medicago lupulina 3
+4 Ranunculus repens 1
+4 Ranunculus acris 1
+4 Senecio jacobaea 1
+4 Trifolium repens 8
+4 Holcus lanatus 4
+4 Taraxacum agg. 4
+4 Daucus carota 1
+4 Galium verum 1
+4 Carex nigra 1
+5 Arenaria serpyllifolia 1
+5 Achillea millefolium 1
+5 Agrostis stolonifera 3
+5 Leucanthemum vulgare 4
+5 Festuca rubra agg. 5
+5 Lotus corniculatus 1
+5 Medicago lupulina 4
+5 Tussilago farfara 4
+5 Trifolium repens 2
+5 Centaurea nigra 1
+5 Cirsium arvense 3
+5 Holcus lanatus 2
+5 Galium verum 1
+5 Vicia sativa 1
+6 Achillea millefolium 2
+6 Agrostis stolonifera 4
+6 Leucanthemum vulgare 6
+6 Cynosurus cristatus 1
+6 Plantago lanceolata 1
+6 Festuca rubra agg. 7
+6 Lotus corniculatus 3
+6 Medicago lupulina 3
+6 Prunella vulgaris 2
+6 Ranunculus repens 1
+6 Tussilago farfara 1
+6 Trifolium repens 1
+6 Centaurea nigra 2
+6 Plantago media 1
+6 Taraxacum agg. 1
+6 Daucus carota 2
+6 Galium verum 1
+7 Anthyllis vulneraria 2
+7 Leucanthemum vulgare 1
+7 Plantago lanceolata 3
+7 Trisetum flavescens 1
+7 Cerastium fontanum 2
+7 Festuca rubra agg. 6
+7 Lotus corniculatus 8
+7 Linum catharticum 2
+7 Prunella vulgaris 1
+7 Salix caprea (g) 1
+7 Trifolium repens 4
+7 Centaurea nigra 1
+7 Holcus lanatus 1
+7 Taraxacum agg. 2
+7 Daucus carota 1
+8 Leucanthemum vulgare 3
+8 Plantago lanceolata 3
+8 Cerastium fontanum 1
+8 Festuca rubra agg. 9
+8 Lathyrus pratensis 2
+8 Lotus corniculatus 9
+8 Linum catharticum 4
+8 Tussilago farfara 3
+8 Trifolium repens 8
+8 Cirsium arvense 2
+8 Holcus lanatus 2
+8 Lolium perenne 3
+9 Brachythecium rutabulum 1
+9 Eurhynchium praelongum 3
+9 Tragopogon pratensis 2
+9 Trisetum flavescens 3
+9 Festuca ovina agg. 8
+9 Festuca rubra agg. 6
+9 Leontodon hispidus 1
+9 Medicago lupulina 3
+9 Ranunculus repens 2
+9 Sonchus oleraceus 2
+9 Tussilago farfara 2
+9 Rhinanthus minor 2
+9 Senecio jacobaea 1
+9 Trifolium repens 8
+9 Cirsium vulgare 1
+9 Holcus lanatus 3
+9 Ophrys apifera 1
+9 Taraxacum agg. 4
+10 Tragopogon pratensis 1
+10 Plantago lanceolata 2
+10 Festuca ovina agg. 10
+10 Festuca rubra agg. 6
+10 Leontodon hispidus 4
+10 Tussilago farfara 1
+10 Rhinanthus minor 1
+10 Senecio jacobaea 1
+10 Cirsium arvense 1
+10 Taraxacum agg. 3
+11 Brachythecium rutabulum 1
+11 Eurhynchium praelongum 4
+11 Dactylorhiza fuchsii 1
+11 Leucanthemum vulgare 8
+11 Tragopogon pratensis 3
+11 Plantago lanceolata 2
+11 Festuca ovina agg. 8
+11 Festuca rubra agg. 6
+11 Rumex obtusifolius 6
+11 Ranunculus repens 1
+11 Salix cinerea (g) 1
+11 Tussilago farfara 2
+11 Trifolium repens 2
+11 Ophrys apifera 1
+12 Eurhynchium praelongum 5
+12 Leucanthemum vulgare 5
+12 Leontodon hispidus 4
+12 Rumex obtusifolius 7
+12 Ranunculus repens 1
+12 Ophrys apifera 2
+12 Taraxacum agg. 4
+13 Crataegus monogyna (g) 1
+13 Eurhynchium praelongum 2
+13 Dactylorhiza fuchsii 3
+13 Leucanthemum vulgare 2
+13 Tragopogon pratensis 8
+13 Cynosurus cristatus 4
+13 Festuca ovina agg. 7
+13 Festuca rubra agg. 2
+13 Koeleria macrantha 3
+13 Leontodon hispidus 3
+13 Salix cinerea (g) 1
+13 Tussilago farfara 2
+13 Senecio jacobaea 1
+13 Trifolium repens 4
+13 Holcus lanatus 2
+13 Taraxacum agg. 4
+14 Achillea millefolium 2
+14 Dactylorhiza fuchsii 1
+14 Leucanthemum vulgare 1
+14 Plantago lanceolata 1
+14 Festuca rubra agg. 7
+14 Koeleria macrantha 2
+14 Leontodon hispidus 3
+14 Lotus corniculatus 6
+14 Alchemilla glabra 2
+14 Linum catharticum 5
+14 Prunella vulgaris 2
+14 Carex flacca 4
+14 Bryum [spp] 7
+15 Dactylorhiza purpurella 1
+15 Eurhynchium praelongum 4
+15 Achillea millefolium 2
+15 Leucanthemum vulgare 1
+15 Cynosurus cristatus 7
+15 Trisetum flavescens 4
+15 Festuca rubra agg. 6
+15 Leontodon hispidus 5
+15 Lotus corniculatus 6
+15 Trifolium pratense 2
+15 Alchemilla glabra 2
+15 Linum catharticum 5
+15 Medicago lupulina 1
+15 Bryum [spp] 7
+16 Pilosella officinarum 2
+16 Cornus sanguinea (g) 3
+16 Leucanthemum vulgare 3
+16 Plantago lanceolata 3
+16 Dactylis glomerata 1
+16 Festuca rubra agg. 4
+16 Leontodon hispidus 4
+16 Lotus corniculatus 3
+16 Linum catharticum 4
+16 Tussilago farfara 2
+16 Senecio jacobaea 1
+16 Taraxacum agg. 2
+16 Listera ovata 1
+16 Carex flacca 4
+16 Bryum [spp] 3
+17 Dactylorhiza purpurella 1
+17 Achillea millefolium 2
+17 Leucanthemum vulgare 2
+17 Trisetum flavescens 5
+17 Festuca rubra agg. 3
+17 Leontodon hispidus 2
+17 Lotus corniculatus 8
+17 Trifolium pratense 5
+17 Linum catharticum 4
+17 Tussilago farfara 4
+17 Bryum [spp] 5
+18 Dactylorhiza purpurella 1
+18 Eurhynchium praelongum 2
+18 Leucanthemum vulgare 3
+18 Dactylis glomerata 1
+18 Festuca ovina agg. 2
+18 Festuca rubra agg. 7
+18 Leontodon hispidus 2
+18 Lotus corniculatus 8
+18 Trifolium pratense 2
+18 Alchemilla glabra 1
+18 Linum catharticum 4
+18 Prunella vulgaris 1
+18 Bellis perennis 2
+18 Centaurea nigra 1
+18 Ophrys apifera 1
+18 Carex flacca 4
+18 Bryum [spp] 5
+19 Eurhynchium praelongum 4
+19 Achillea millefolium 4
+19 Dactylorhiza fuchsii 1
+19 Leucanthemum vulgare 4
+19 Plantago lanceolata 2
+19 Trisetum flavescens 4
+19 Dactylis glomerata 1
+19 Festuca rubra agg. 5
+19 Lathyrus pratensis 4
+19 Leontodon hispidus 5
+19 Lotus corniculatus 7
+19 Trifolium pratense 4
+19 Alchemilla glabra 2
+19 Linum catharticum 2
+19 Medicago lupulina 4
+19 Salix caprea (g) 1
+19 Bellis perennis 4
+19 Holcus lanatus 1
+19 Carex flacca 5
+19 Bryum [spp] 5
+20 Brachythecium rutabulum 2
+20 Veronica serpyllifolia 1
+20 Agrostis stolonifera 4
+20 Alopecurus pratensis 2
+20 Cynosurus cristatus 8
+20 Epilobium montanum 1
+20 Festuca rubra agg. 4
+20 Lotus corniculatus 5
+20 Equisetum arvense 1
+20 Ranunculus repens 1
+20 Trifolium repens 6
+20 Cirsium arvense 1
+20 Holcus lanatus 2
+20 Lolium perenne 3
+20 Taraxacum agg. 2
+20 Poa trivialis 2
+20 Vicia cracca 4
+20 Bryum [spp] 2
+21 Chamerion angustifolium 2
+21 Eurhynchium praelongum 6
+21 Arrhenatherum elatius 1
+21 Cynosurus cristatus 5
+21 Plantago lanceolata 4
+21 Dactylis glomerata 1
+21 Festuca rubra agg. 7
+21 Lathyrus pratensis 7
+21 Trifolium pratense 4
+21 Equisetum arvense 4
+21 Cirsium arvense 1
+21 Holcus lanatus 4
+21 Taraxacum agg. 1
+21 Carex flacca 3
+21 Carex nigra 3
+22 Brachythecium rutabulum 2
+22 Eurhynchium praelongum 4
+22 Arrhenatherum elatius 4
+22 Agrostis stolonifera 2
+22 Cynosurus cristatus 7
+22 Plantago lanceolata 2
+22 Cerastium fontanum 2
+22 Festuca rubra agg. 7
+22 Lathyrus pratensis 7
+22 Lotus corniculatus 3
+22 Trifolium repens 5
+22 Holcus lanatus 2
+22 Poa trivialis 1
+22 Carex flacca 2
+22 Carex nigra 2
+23 Brachythecium rutabulum 5
+23 Eurhynchium praelongum 5
+23 Arrhenatherum elatius 1
+23 Cynosurus cristatus 7
+23 Festuca rubra agg. 6
+23 Lathyrus pratensis 5
+23 Ranunculus repens 2
+23 Holcus lanatus 5
+23 Taraxacum agg. 3
+23 Brassica rapa 2
+23 Vicia cracca 2
+24 Eurhynchium praelongum 1
+24 Arrhenatherum elatius 4
+24 Agrostis capillaris 4
+24 Cynosurus cristatus 4
+24 Cerastium fontanum 2
+24 Festuca rubra agg. 8
+24 Lathyrus pratensis 2
+24 Lotus corniculatus 3
+24 Equisetum arvense 1
+24 Trifolium repens 7
+24 Taraxacum agg. 1
+24 Vicia cracca 4
+25 Eurhynchium praelongum 5
+25 Anthoxanthum odoratum 1
+25 Heracleum sphondylium 2
+25 Dactylorhiza fuchsii 1
+25 Cynosurus cristatus 6
+25 Festuca rubra agg. 7
+25 Lathyrus pratensis 1
+25 Lotus corniculatus 4
+25 Equisetum arvense 2
+25 Cirsium arvense 2
+25 Holcus lanatus 2
