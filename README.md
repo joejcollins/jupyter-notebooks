@@ -2,4 +2,4 @@
 
 Scratch pad
 
-At <https://notebooks.azure.com/joejcollins-hotmail-com/projects/jupyter-notebooks>.
+At <https://notebooks.azure.com/joejcollins/projects/jupyter-notebooks>.
