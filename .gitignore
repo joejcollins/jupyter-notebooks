@@ -116,3 +116,6 @@ dmypy.json
 
 # Jupyter Notebooks
 .ipynb_checkpoints/
+.Rproj.user
+.Rhistory
+*.Rproj
