@@ -4,6 +4,8 @@ install.packages("reticulate") # python support in RMarkdown
 install.packages("ggplot2") # for plotting
 install.packages(c("rmarkdown", "caTools", "bitops")) # for knitting
 
+install.packages(c("XLConnect")) # for connecting to Excel spreadsheets
+
 ### install bioconductor packages
 # install.packages("BiocManager")
 # BiocManager::install("package")
