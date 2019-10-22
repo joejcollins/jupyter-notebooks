@@ -16,3 +16,6 @@ or locally
     workon jupyter-notebooks
     deactivate
 
+## Binder
+
+The binder directory is copied from <https://github.com/binder-examples/r_with_python>.
