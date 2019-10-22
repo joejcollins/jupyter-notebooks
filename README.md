@@ -6,7 +6,7 @@ At <https://notebooks.azure.com/joejcollins/projects/jupyter-notebooks>
 
 or
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/joejcollins/jupyter-notebooks.git/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/joejcollins/jupyter-notebooks.git/master?urlpath=lab)
 
 or locally
 
