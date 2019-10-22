@@ -9,5 +9,6 @@ Try on <https://mybinder.org/>.
 or locally
 
     mkvirtualenv professor-matic
+    pip install -r binder/requirements.txt
     workon professor-matic
     deactivate
