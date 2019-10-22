@@ -1,4 +1,4 @@
-# Jupyter Notebook
+# Jupyter Notebooks
 
 Scratch pads and demos.
 
