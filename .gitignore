@@ -119,3 +119,11 @@ dmypy.json
 .Rproj.user
 .Rhistory
 *.Rproj
+
+# Stuff from MyBinder.org
+.bash_logout
+.bashrc
+.config/
+.jupyter/
+.local/
+.profile
