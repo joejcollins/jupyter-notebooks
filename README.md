@@ -1,10 +1,6 @@
 # Jupyter Notebooks
 
-Scratch pads and demos.
-
-At <https://notebooks.azure.com/joejcollins/projects/professor-matic>
-
-or
+Try on <https://mybinder.org/>.
 
 * Launch in Notebook [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/joejcollins/professor-matic.git/master)
 * Launch in Jupyter Lab: [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/joejcollins/professor-matic.git/master?urlpath=lab)
@@ -12,11 +8,6 @@ or
 
 or locally
 
-    mkvirtualenv jupyter-notebooks
-    workon jupyter-notebooks
+    mkvirtualenv professor-matic
+    workon professor-matic
     deactivate
-
-## Binder
-
-The binder directory is copied from <https://github.com/binder-examples/r_with_python>.
-
