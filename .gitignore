@@ -127,3 +127,6 @@ dmypy.json
 .jupyter/
 .local/
 .profile
+
+# Don't include data
+records-2018-11-22.csv
