@@ -1,0 +1,123 @@
+{
+  "lines": [
+    {
+      "height": 33, 
+      "text": "Summary Property List", 
+      "width": 368, 
+      "x": 45, 
+      "y": 271
+    }, 
+    {
+      "height": 29, 
+      "text": "Property Report Criteria:- Office: BAB", 
+      "width": 459, 
+      "x": 46, 
+      "y": 320
+    }, 
+    {
+      "height": 28, 
+      "text": "212 Wombat House, Wigan Road, London, swil 8AT", 
+      "width": 670, 
+      "x": 45, 
+      "y": 368
+    },
+    {
+      "height": 32,
+      "text": "Vendor: Ms Rhonda Simpson; Tel: e: rhonda.simpson@gmail.com; email tenant:",
+      "width": 895,
+      "x": 43,
+      "y": 406
+    }, 
+    {
+      "height": 29, 
+      "text": "Flat 7, Elizabeth Court, Apple Square, London, SE48 2PE", 
+      "width": 697, 
+      "x": 47, 
+      "y": 455
+    },
+    {
+      "height": 30,
+      "text": "Vendor: Miss Deliahla Crump, Tel: h: 07946123456; e: deliahla@hotmail.co.uk",
+      "width": 987,
+      "x": 42,
+      "y": 492
+    }, 
+    {
+      "height": 22, 
+      "text": "Leasehold", 
+      "width": 125, 
+      "x": 1079, 
+      "y": 364
+    }, 
+    {
+      "height": 25, 
+      "text": "\u20ac190,000", 
+      "width": 113, 
+      "x": 952, 
+      "y": 365
+    }, 
+    {
+      "height": 22, 
+      "text": "Sold STC", 
+      "width": 117, 
+      "x": 1078, 
+      "y": 404
+    }, 
+    {
+      "height": 22, 
+      "text": "EO To be advised", 
+      "width": 215, 
+      "x": 1036, 
+      "y": 451
+    }, 
+    {
+      "height": 27, 
+      "text": "Pre Appraisal", 
+      "width": 164, 
+      "x": 1079, 
+      "y": 491
+    },
+    {
+      "height": 22, 
+      "text": "24/01/2012", 
+      "width": 135, 
+      "x": 1410, 
+      "y": 257
+    }, 
+    {
+      "height": 27, 
+      "text": "Page. 31", 
+      "width": 102, 
+      "x": 1441, 
+      "y": 313
+    }, 
+    {
+      "height": 22, 
+      "text": "1 bed 1 rec 1 bat", 
+      "width": 219, 
+      "x": 1316, 
+      "y": 361
+    }, 
+    {
+      "height": 22, 
+      "text": "TGE/BABI 10029", 
+      "width": 209, 
+      "x": 1313, 
+      "y": 401
+    }, 
+    {
+      "height": 23, 
+      "text": "2 bed 1 rec 1 bat", 
+      "width": 221, 
+      "x": 1314, 
+      "y": 448
+    }, 
+    {
+      "height": 22, 
+      "text": "TGE/BAB110034", 
+      "width": 208, 
+      "x": 1314, 
+      "y": 488
+    }
+  ]
+}
