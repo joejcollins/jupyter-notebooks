@@ -1,6 +1,6 @@
 # Jupyter Notebooks
 
-Try on <https://mybinder.org/>.
+Try on <https://mybinder.org/>.  These don't work because the `requirements.txt` refers to some Windows specific stuff.  Sigh.
 
 * Launch in Notebook [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/joejcollins/professor-matic.git/master)
 * Launch in Jupyter Lab: [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/joejcollins/professor-matic.git/master?urlpath=lab)
