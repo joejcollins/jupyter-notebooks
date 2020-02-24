@@ -11,4 +11,7 @@ or locally
     mkvirtualenv professor-matic
     pip install -r binder/requirements.txt
     workon professor-matic
+
+Then open a Jupyter note book in VSCode (e.g. \Interview Demos\finger_prints.ipynb), it should format the Jupyter note book automatically
+
     deactivate
